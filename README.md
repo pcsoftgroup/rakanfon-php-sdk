@@ -16,7 +16,7 @@ To install the SDK in your project you need to add the package via composer:
     "repositories": [
         {
             "type": "git",
-            "url": "https://github.com/pcsoftgroup/rakanfon-php-sdk.git"
+            "url": "https://github.com/pcsoftgroup/rakanfon-php-sdk"
         }
     ]
 }
