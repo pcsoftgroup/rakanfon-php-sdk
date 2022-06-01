@@ -6,7 +6,7 @@ class ErrorCode
 {
     const DUPLICATED_TRACKING_ID = "Error#6#Transaction ID Can not be Repeated";
     const SUBSCRIBER_EXCEED_RATE_LIMIT = "Error#9#هناك عملية سابقة لهذا الرقم لايمكن تكرار العملية قبل مرور 4 دقيقة/دقائق من وقت تنفيذ العملية السابقة";
-    const INSUFFICIENT_BALANCE_FOR_QUERY = "Error#8#رصيدكم لا يسمح باجراء عمليات إستعل";
+    const INSUFFICIENT_BALANCE_FOR_QUERY = "Error#8#رصيدكم لا يسمح باجراء عمليات إستعلام";
 
     public static function all()
     {
